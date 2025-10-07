@@ -8,3 +8,12 @@
 
 ### Третий семинар
 [Код с семинара](https://github.com/n-popov/dasr-2025/blob/master/third)
+
+### Четвёртый семинар
+[Код с семинара](https://github.com/n-popov/dasr-2025/blob/master/fourth)
+
+### Пятый семинар
+*тут была лаба*
+
+### Шестой семинар
+[Код с семинара](https://github.com/n-popov/dasr-2025/blob/master/sixth)
